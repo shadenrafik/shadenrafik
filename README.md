@@ -20,7 +20,7 @@ I'm a third-year Engineering Student passionate about bridging the gap between c
 
 ### 📂 Featured Projects
 
-* **SkillSync Egypt:** A comprehensive hybrid learning platform.
+* **Sudoku Game:**: A full sudoku game OOP system focused on using design patterns efficiently.
 * **Learning Management System:** A robust system for managing educational content.
 * **Hotel Management System:** Full-featured booking and management software.
 * **AVL Tree Dictionary:** An optimized dictionary application demonstrating advanced data structures.
